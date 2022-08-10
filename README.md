@@ -3,7 +3,7 @@
 
 # 💻 Linguagens
   • HTML
-  • CSS
+  <br>• CSS
   
 # 🟣 Plataforma
   Cardápio online com QR Code para restaurante.
